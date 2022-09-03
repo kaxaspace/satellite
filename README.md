@@ -1,6 +1,6 @@
 # ផ្កាយរណប | Satellite 
 
-Category: KAXA | Space Technology
+Category: | KAXA --> Space Technology
 
 ## សេចក្តីផ្តើម
 កម្រងអត្ថបទណែនាំអំពីបច្ចេកវិទ្យាផ្កាយរណបជាភាសាខ្មែរ។
