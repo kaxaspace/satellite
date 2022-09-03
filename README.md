@@ -3,8 +3,6 @@
 Category: KAXA | Space Technology
 
 ## សេចក្តីផ្តើម
-A collection of articles introducing satellite technology in Khmer language.
-
 កម្រងអត្ថបទណែនាំអំពីបច្ចេកវិទ្យាផ្កាយរណបជាភាសាខ្មែរ។
 
 មាតិកា
