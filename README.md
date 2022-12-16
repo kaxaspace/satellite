@@ -45,10 +45,16 @@ Category: | KAXA --> Space Technology
 ## 3. ប្រភេទគន្លងនៃផ្កាយរណប
 ប្រភេទគន្លងនៃផ្កាយរណប
 
-ក្នុងផុសនេះ យើងនឹងស្វែងយល់ពីភាពខុសគ្នារវាងគន្លងបីប្រភេទបស់ផ្កាយរណប Low Earth Orbit (LEO), Medium Earth Orbit (MEO) និង Geostationary Orbit (GEO)។
+ក្នុងផុសនេះ យើងនឹងស្វែងយល់ពីភាពខុសគ្នារវាងគន្លងបីប្រភេទរបស់ផ្កាយរណប Low Earth Orbit (LEO), Medium Earth Orbit (MEO) និង Geostationary Orbit (GEO)។
 
 អាស្រ័យលើគោលបំណង និងការប្រើប្រាស់របស់ផ្កាយរណប គេបង្ហោះផ្កាយរណបក្នុងគន្លងប្រភេទផ្សេងៗគ្នា ដែលអាចផ្តល់នូវគុណសម្បត្តិ និងសមត្ថភាពផ្សេងៗគ្នាផងដែរ។
 
+| Orbit type| LEO | MEO | GEO |
+| ------------- | --- | --- | --- |
+| Altitude  | 200 - 1,600  km  | 5,000 - 20,000 km | 36,000 km |
+| Orbital period  | 85 - 120 mins | 3 - 7 hours | 24 hours |
+| Lifespan  | 3 - 7 years | 15 years | 15+ years |
+| Applications  | Telecommunications (internet) | Navigation systems (GNSS) | Earth observation (Weather prediction) |
 
 ## 4. មុខងារនៃផ្កាយរណប
 កំពុងរៀបចំ
