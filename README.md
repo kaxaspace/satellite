@@ -42,6 +42,8 @@ Category: | KAXA --> Space Technology
 
 ដូចដែលបានបង្ហាញក្នុងរូបភាព ប្រទេសជាច្រើនជុំវិញពិភពលោកមានផ្កាយរណបផ្ទាល់ខ្លួនរួចហើយ។
 
+![whoOwnSatellite](./img/whoOwnSatellite.gif)
+
 ## 3. ប្រភេទគន្លងនៃផ្កាយរណប
 ប្រភេទគន្លងនៃផ្កាយរណប
 
@@ -56,7 +58,7 @@ Category: | KAXA --> Space Technology
 | Lifespan  | 3 - 7 years | 15 years | 15+ years |
 | Applications  | Telecommunications (internet) | Navigation systems (GNSS) | Earth observation (Weather prediction) |
 
-![whoOwnSatellite](./img/whoOwnSatellite.gif)
+![orbitSatellite](./img/orbitSatellite.png)
 
 ## 4. មុខងារនៃផ្កាយរណប
 កំពុងរៀបចំ
