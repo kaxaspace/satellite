@@ -45,9 +45,7 @@ Category: | KAXA --> Space Technology
 ![whoOwnSatellite](./img/whoOwnSatellite.gif)
 
 ## 3. ប្រភេទគន្លងនៃផ្កាយរណប
-ប្រភេទគន្លងនៃផ្កាយរណប
-
-ក្នុងផុសនេះ យើងនឹងស្វែងយល់ពីភាពខុសគ្នារវាងគន្លងបីប្រភេទរបស់ផ្កាយរណប Low Earth Orbit (LEO), Medium Earth Orbit (MEO) និង Geostationary Orbit (GEO)។
+យើងស្វែងយល់ពីភាពខុសគ្នារវាងគន្លងបីប្រភេទរបស់ផ្កាយរណប Low Earth Orbit (LEO), Medium Earth Orbit (MEO) និង Geostationary Orbit (GEO) តាមតារាងខាងក្រោម។
 
 អាស្រ័យលើគោលបំណង និងការប្រើប្រាស់របស់ផ្កាយរណប គេបង្ហោះផ្កាយរណបក្នុងគន្លងប្រភេទផ្សេងៗគ្នា ដែលអាចផ្តល់នូវគុណសម្បត្តិ និងសមត្ថភាពផ្សេងៗគ្នាផងដែរ។
 
